@@ -23,7 +23,15 @@ __Mira mi repositorio en GitHub:__ [https://github.com/coraimaHuamani](https://g
   <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
+
+## 📚 Bibliotecas
+
+![Laravel Sanctum](https://img.shields.io/badge/Laravel_Sanctum-%23F05340.svg?style=for-the-badge&logo=laravel&logoColor=white)  
+[![Laravel Excel](https://img.shields.io/badge/Laravel_Excel-%230078D4.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/Maatwebsite/Laravel-Excel)  
+
+**Paquete para Excel:** `maatwebsite/excel`  
 
 <h4>Otras Herramientas y Tecnologías</h4>
 <span>
