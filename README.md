@@ -11,7 +11,6 @@ Soy estudiante de Ingeniería de Sistemas e Informática en la Universidad Tecno
 - 👯 Estoy buscando colaborar en proyectos de código abierto.
 
 - Fuera de la tecnología, disfruto la lectura, ver videos y escuchar música.  
-- 📫 Contáctame en: <a href="mailto:huamanicoraima7@gmail.com">huamanicoraima7@gmail.com</a>
 
 __Mira mi repositorio en GitHub:__ [https://github.com/coraimaHuamani](https://github.com/coraimaHuamani)
 
